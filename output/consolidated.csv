@@ -1,0 +1,63 @@
+LGA,Deaths,Cases,Population,IRSAD,IRSAD Quintile
+Ballarat (C),9,7594.0,101686.0,965,Quintile 2
+Banyule (C),22,11426.0,121865.0,1055,Quintile 4
+Bass Coast (S),< 5,2444.0,32804.0,945,Quintile 2
+Baw Baw (S),< 5,4062.0,48479.0,976,Quintile 3
+Bayside (C),21,10241.0,97087.0,1125,Quintile 5 (most advantaged)
+Benalla (RC),< 5,545.0,13861.0,936,Quintile 1 (most disadvantaged)
+Boroondara (C),19,13312.0,167231.0,1128,Quintile 5 (most advantaged)
+Brimbank (C),65,31413.0,194319.0,930,Quintile 1 (most disadvantaged)
+Campaspe (S),< 5,1719.0,37061.0,943,Quintile 2
+Cardinia (S),8,10254.0,94128.0,996,Quintile 3
+Casey (C),56,40305.0,299301.0,991,Quintile 3
+Central Goldfields (S),< 5,373.0,12995.0,870,Quintile 1 (most disadvantaged)
+Colac-Otway (S),< 5,1186.0,20972.0,939,Quintile 2
+Darebin (C),51,17308.0,146719.0,1020,Quintile 4
+East Gippsland (S),5,1865.0,45040.0,937,Quintile 1 (most disadvantaged)
+Frankston (C),23,11239.0,134143.0,981,Quintile 3
+Gannawarra (S),< 5,316.0,10549.0,934,Quintile 1 (most disadvantaged)
+Glen Eira (C),23,15511.0,140875.0,1092,Quintile 5 (most advantaged)
+Golden Plains (S),< 5,1276.0,21688.0,1004,Quintile 3
+Greater Bendigo (C),5,6304.0,110477.0,961,Quintile 2
+Greater Dandenong (C),37,19901.0,152050.0,915,Quintile 1 (most disadvantaged)
+Greater Geelong (C),17,19628.0,233429.0,980,Quintile 3
+Greater Shepparton (C),12,5874.0,63837.0,937,Quintile 1 (most disadvantaged)
+Hepburn (S),< 5,637.0,15330.0,979,Quintile 3
+Hobsons Bay (C),21,9848.0,88778.0,1020,Quintile 4
+Hume (C),35,40980.0,197376.0,947,Quintile 2
+Indigo (S),< 5,696.0,15952.0,995,Quintile 3
+Kingston (C) (Vic.),32,,151389.0,1042,Quintile 1 (most disadvantaged)
+Knox (C),20,10756.0,154110.0,1032,Quintile 2
+Latrobe (C) (Vic.),7,,73257.0,916,Quintile 1 (most disadvantaged)
+Macedon Ranges (S),12,3002.0,46100.0,1047,Quintile 4
+Manningham (C),27,10970.0,116255.0,1076,Quintile 5 (most advantaged)
+Maribyrnong (C),15,11918.0,82288.0,1019,Quintile 4
+Maroondah (C),10,8577.0,110376.0,1034,Quintile 4
+Melbourne (C),15,22905.0,135959.0,1071,Quintile 5 (most advantaged)
+Melton (C),18,28237.0,135443.0,981,Quintile 3
+Mildura (RC),< 5,3997.0,53878.0,921,Quintile 1 (most disadvantaged)
+Mitchell (S),6,3333.0,40918.0,972,Quintile 2
+Moira (S),< 5,1955.0,29112.0,930,Quintile 1 (most disadvantaged)
+Monash (C),48,14934.0,182618.0,1060,Quintile 5 (most advantaged)
+Moonee Valley (C),16,15406.0,116671.0,1046,Quintile 4
+Moorabool (S),< 5,3163.0,31818.0,988,Quintile 3
+Moreland (C),47,23491.0,162558.0,1026,Quintile 4
+Mornington Peninsula (S),22,12899.0,154999.0,1013,Quintile 4
+Murrindindi (S),< 5,615.0,13732.0,973,Quintile 2
+Nillumbik (S),7,5186.0,61273.0,1093,Quintile 5 (most advantaged)
+Northern Grampians (S),< 5,668.0,11439.0,921,Quintile 1 (most disadvantaged)
+Port Phillip (C),< 5,13699.0,100863.0,1101,Quintile 1 (most disadvantaged)
+Pyrenees (S),< 5,318.0,7238.0,937,Quintile 1 (most disadvantaged)
+Queenscliffe (B),< 5,232.0,2853.0,1070,Quintile 5 (most advantaged)
+Southern Grampians (S),< 5,1010.0,15944.0,969,Quintile 2
+Stonnington (C),12,12029.0,103832.0,1120,Quintile 5 (most advantaged)
+Surf Coast (S),< 5,2594.0,29397.0,1064,Quintile 5 (most advantaged)
+Swan Hill (RC),< 5,1187.0,20584.0,934,Quintile 1 (most disadvantaged)
+Warrnambool (C),< 5,2445.0,33655.0,961,Quintile 1 (most disadvantaged)
+Wellington (S),< 5,2070.0,42983.0,954,Quintile 2
+Whitehorse (C),32,11443.0,162078.0,1063,Quintile 5 (most advantaged)
+Whittlesea (C),47,31720.0,197491.0,982,Quintile 3
+Wodonga (C),< 5,2617.0,39351.0,957,Quintile 2
+Wyndham (C),16,39840.0,217122.0,1002,Quintile 3
+Yarra (C),8,12080.0,86657.0,1081,Quintile 5 (most advantaged)
+Yarra Ranges (S),9,10951.0,149537.0,1017,Quintile 4
